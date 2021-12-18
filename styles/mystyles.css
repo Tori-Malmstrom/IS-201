@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/galaxy.jpg");
+    
+}
+.site-heading .site-heading-upper {
+    color: rgb(221, 151, 11);
+}
+.site-heading .site-heading-lower {
+    color: rgb(221, 151, 11);
+    font-weight: 400;
+}
+.underline {text-decoration: underline;}
+.list{ 
+    text-align: left;
+}
+.someinfo {
+    text-decoration: underline; 
+    font-weight:bold;
+}
+.hugright {
+    position: absolute;
+    right:0px;
+    }
+.mainphoto {
+    <img width: 300px;>
+}
+
